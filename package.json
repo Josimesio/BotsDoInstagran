@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Bot de comentarios,seguir e curtir automatico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josimesio/BotsDoInstagran.git"
+  },
+  "author": "Josimesio Rossini Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josimesio/BotsDoInstagran/issues"
+  },
+  "homepage": "https://github.com/Josimesio/BotsDoInstagran#readme"
+}
